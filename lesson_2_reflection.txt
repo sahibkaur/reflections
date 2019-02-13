@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+-> When you initialize a repository, a .git file is created and your current directory becomes master. We need to do it keep track of our changes in form of commits
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is different from working directory and the repository bcuz it specifies only chose files which must be included in the commit. It can help us make logical commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+We can make different logical changes in different files but only stage the relevant ones. So that we can commit only the files per logical change 
+
+
