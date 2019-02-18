@@ -5,6 +5,8 @@ How is the staging area different from the working directory and the repository?
 Staging area is different from working directory and the repository bcuz it specifies only chose files which must be included in the commit. It can help us make logical commits.
 
 How can you use the staging area to make sure you have one commit per logical change?
-We can make different logical changes in different files but only stage the relevant ones. So that we can commit only the files per logical change 
+We can make different logical changes in different files but only stage the relevant ones. So that we can commit only the files per any logical change.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We need to megre two branches together because ultimately we want only a single working version of the work and it would be best if we merge the branches so that all the required changes made in any of the branches are incorporated into one.
 
