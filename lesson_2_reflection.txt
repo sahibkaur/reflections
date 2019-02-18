@@ -10,3 +10,12 @@ We can make different logical changes in different files but only stage the rele
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 We need to megre two branches together because ultimately we want only a single working version of the work and it would be best if we merge the branches so that all the required changes made in any of the branches are incorporated into one.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging
+Pros:
+Git automatic merging will free us from the headacheof merging two branches those have changes at irrelevant positions.
+Cons:
+It could changethe logic of the whole work by combining two relevant changes if they weren't supposed to be merged.
+Manual merging
+Pros:
+It could help us stop making changes that weren't supposed to be made unintentionally
