@@ -1,0 +1,2 @@
+When would you want to create a remote repository rather than keeping all the work local?
+->There can be many reasons but a very prominant reason could be when more than one persons are collaborating on your work.
